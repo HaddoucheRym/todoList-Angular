@@ -1,4 +1,4 @@
 
 <ul *ngFor="let item of tache">
-    <li>{{item}}</li>
+    <li>{{item}} <app-delete-task [tache]="tache" ></app-delete-task></li>
 </ul>
