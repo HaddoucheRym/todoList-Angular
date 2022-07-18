@@ -15,4 +15,8 @@ export class TodoPageComponent implements OnInit {
   ngOnInit(): void {
   }
 
+//    delete(index:number):void{
+//  this.listTask.splice(1,index);
+//   }
+
 }

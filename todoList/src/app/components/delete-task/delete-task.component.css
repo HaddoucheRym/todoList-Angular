@@ -4,7 +4,10 @@
 border-color: white;
 box-shadow: none;
 background-color: red;
+width: 35px;
+height: 38px;
 }
-span{
+i{
     color: white;
+    font-size: 20px;
 }

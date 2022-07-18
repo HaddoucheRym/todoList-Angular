@@ -13,6 +13,8 @@ export class DeleteTaskComponent implements OnInit {
   ngOnInit(): void {
   }
 delete(index:number):void{
-this.tache.splice(1,index);
+this.tache.splice(1,index)
 }
+
+
 }

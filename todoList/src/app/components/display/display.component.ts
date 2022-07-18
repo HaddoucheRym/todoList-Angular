@@ -14,5 +14,8 @@ tache : any;
     
     
   }
+  // delete(index:number):void{
+
+  // }
 
 }
